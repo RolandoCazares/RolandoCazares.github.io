@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.26fce8fb.css",
-    "main.js": "/static/js/main.695586ca.js",
-    "static/media/ingenieria-sistemascomputacionales.jpg": "/static/media/ingenieria-sistemascomputacionales.b5fe04c25d6933c9207b.jpg",
+    "main.css": "/static/css/main.eb9d70c6.css",
+    "main.js": "/static/js/main.39e89d33.js",
+    "static/media/ingenieria-sistemascomputacionales.jpg": "/static/media/ingenieria-sistemascomputacionales.36af7015e593c20d75e1.jpg",
     "static/media/giphy.gif": "/static/media/giphy.4f95364455e322145589.gif",
     "static/media/compubinario.png": "/static/media/compubinario.c7886e571734f77b23f0.png",
+    "static/media/cardbackground.svg": "/static/media/cardbackground.9dcfa654b7e3d15698d6da543ddf156d.svg",
     "index.html": "/index.html",
-    "main.26fce8fb.css.map": "/static/css/main.26fce8fb.css.map",
-    "main.695586ca.js.map": "/static/js/main.695586ca.js.map"
+    "main.eb9d70c6.css.map": "/static/css/main.eb9d70c6.css.map",
+    "main.39e89d33.js.map": "/static/js/main.39e89d33.js.map"
   },
   "entrypoints": [
-    "static/css/main.26fce8fb.css",
-    "static/js/main.695586ca.js"
+    "static/css/main.eb9d70c6.css",
+    "static/js/main.39e89d33.js"
   ]
 }
