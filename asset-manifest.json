@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dddbc5d4.css",
-    "main.js": "/static/js/main.18c2d408.js",
-    "static/media/ingenieria-sistemascomputacionales.jpg": "/static/media/ingenieria-sistemascomputacionales.36af7015e593c20d75e1.jpg",
-    "static/media/giphy.gif": "/static/media/giphy.4f95364455e322145589.gif",
-    "static/media/compubinario.png": "/static/media/compubinario.c7886e571734f77b23f0.png",
-    "static/media/cardbackground.svg": "/static/media/cardbackground.9dcfa654b7e3d15698d6da543ddf156d.svg",
+    "main.css": "/static/css/main.2291f774.css",
+    "main.js": "/static/js/main.622bba41.js",
+    "static/js/787.ae0d8d37.chunk.js": "/static/js/787.ae0d8d37.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.dddbc5d4.css.map": "/static/css/main.dddbc5d4.css.map",
-    "main.18c2d408.js.map": "/static/js/main.18c2d408.js.map"
+    "main.2291f774.css.map": "/static/css/main.2291f774.css.map",
+    "main.622bba41.js.map": "/static/js/main.622bba41.js.map",
+    "787.ae0d8d37.chunk.js.map": "/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dddbc5d4.css",
-    "static/js/main.18c2d408.js"
+    "static/css/main.2291f774.css",
+    "static/js/main.622bba41.js"
   ]
 }
